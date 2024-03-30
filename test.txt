@@ -2,3 +2,4 @@ test
 second test
 fetch test
 pull test
+push test
